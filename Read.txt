@@ -1,0 +1,3 @@
+La aplicación cuenta con un archivo properties donde se pues configurar la cantidad de llamadas que se quieran ejecutar.
+Al momento de manipular el archivo hay que tener en cuenta que el número sea mayor a cero.
+La aplicación está en la capacidad de atender diez llamadas de forma simultánea y encolar las llamadas restantes.
